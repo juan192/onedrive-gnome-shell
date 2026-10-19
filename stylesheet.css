@@ -1,0 +1,44 @@
+.disabledIcon {
+    background-image: url("imgs/disabled.png");
+    background-size: 20px;
+    height: 20px;
+    width: 20px;
+}
+
+.activeIcon {
+    background-image: url("imgs/active.png");
+    background-size: 20px;
+    height: 20px;
+    width: 20px;
+}
+
+.workingIcon {
+    background-image: url("imgs/working.png");
+    background-size: 20px;
+    height: 20px;
+    width: 20px;
+}
+
+/* Compact flat sync information aligned with the normal menu-item text. */
+.sync-info-box {
+    font-size: 0.82em;
+    padding: 2px 0;
+    margin: 2px 0 4px 0;
+    text-align: left;
+}
+
+.sync-info-state {
+    font-weight: 600;
+    padding-bottom: 2px;
+}
+
+.sync-info-last {
+    font-size: 0.92em;
+    opacity: 0.78;
+}
+
+/* Uniform vertical spacing for all normal action items. */
+.onedrive-menu-item {
+    padding-top: 6px;
+    padding-bottom: 6px;
+}

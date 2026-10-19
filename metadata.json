@@ -1,0 +1,9 @@
+{
+  "name": "OneDrive Client",
+  "description": "Control y monitorización de OneDrive para GNOME Shell 50 / Wayland",
+  "uuid": "onedrive@juanayala.github.com",
+  "version": 1,
+  "shell-version": ["50"],
+  "url": "https://github.com/juan192/onedrive-gnome-shell",
+  "gettext-domain": "onedrive@juanayala.github.com"
+}

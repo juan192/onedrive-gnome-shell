@@ -1,6 +1,6 @@
-# OneDrive Client for GNOME Shell 50
+# OneDrive Client for GNOME Shell
 
-Extensión para **GNOME Shell 50 / Wayland** que permite controlar y monitorizar el cliente OneDrive para Linux de [abraunegg](https://github.com/abraunegg/onedrive).
+Extensión para **GNOME Shell X11 / Wayland** que permite controlar y monitorizar el cliente OneDrive para Linux de [abraunegg](https://github.com/abraunegg/onedrive).
 
 ## Funciones principales
 
@@ -198,11 +198,7 @@ Estado: ACTIVE
 
 También puedes habilitarla desde la aplicación:
 
-```text
-Extensiones
-```
-
-de GNOME.
+Extensiones de GNOME.
 
 ---
 

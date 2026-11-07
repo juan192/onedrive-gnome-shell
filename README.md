@@ -17,6 +17,8 @@ Extensión para **GNOME Shell X11 / Wayland** que permite controlar y monitoriza
 - Abrir OneDrive en el navegador.
 - Abrir la carpeta local de OneDrive.
 - Compatible con GNOME Shell 50 y Wayland.
+- 
+<img width="285" height="378" alt="image" src="https://github.com/user-attachments/assets/5b6a8b4d-c58f-4c3f-bf32-c3e25d7c746c" />
 
 ---
 
